@@ -1,5 +1,9 @@
 COMMANDS to start installing expo project and setting everything up
 
+HELPFUL WEBSITES:
+
+- https://reactnative.dev/docs/environment-setup?guide=quickstart
+
 - npm install -g expo-cli
 
   - This sets up expo commands in terminal
