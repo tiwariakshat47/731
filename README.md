@@ -23,18 +23,18 @@ COMMANDS to start installing expo project and setting everything up
      - Should tell you directions on how to link the project
      - npm install --global eas-cli (if doesn’t work try using sudo in front)
        - This command allows you to use eas commands
-     - npx create-expo-app <Your app in expo>
+     - npx create-expo-app "Your app in expo"
        - This creates the directory on your local machine
-     - cd <your app name>
+     - cd "your app name"
        - Goes into directory
-     - eas init <id number>
+     - eas init "id number"
        - There should be a long number here
        - If you run into an error with EAS, specifically number 13, run this:
-         - sudo chown -R 501:20 "/<Users>/<Directory>/.npm"
+         - sudo chown -R 501:20 "/"Users"/"Directory"/.npm"
          - Should be shown in eas error statement
 
   2. Video’s way
-     - expo init <name of your desired app>
+     - expo init "name of your desired app"
        - You will be given with a prompt for template
      - Pick blank template
        - You will then be given steps similar to first way
