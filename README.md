@@ -2,6 +2,11 @@ HELPFUL WEBSITES:
 
 - https://reactnative.dev/docs/environment-setup?guide=quickstart
 
+REQUIRED INSTALLATION
+
+- Go download node lts
+- Look up guide to install npm for your machine
+
 COMMANDS to start installing expo project and setting everything up
 
 - npm install -g expo-cli
