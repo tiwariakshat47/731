@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "project731",
-    "slug": "project731",
+    "name": "project731version2",
+    "slug": "project731version2",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -28,7 +28,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "e55583f4-aefc-4efa-bc1e-114cfd52f9e0"
+        "projectId": "3be47aa9-1587-4cb5-8eaa-7e0ef4068c28"
       }
     },
     "owner": "ashtonliu88"
