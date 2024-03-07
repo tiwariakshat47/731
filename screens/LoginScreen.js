@@ -18,9 +18,8 @@ const LoginScreen = ({ navigation }) => {
         
         return unsubscribe;
     }, []);
-    const signIn = () => {
 
-    }
+    const signIn = () => {};
 
   return (
     <KeyboardAvoidingView behavior='padding' style={styles.container}>
@@ -42,9 +41,9 @@ const LoginScreen = ({ navigation }) => {
             <Input 
                 placeholder="Password" 
                 secureTextEntry 
-                type="password"
-                value={password}
-                onChangetext={(text) => setPassword(text)} />
+                type = "Password" 
+                value={password} 
+                onChangeText={(text) => setPassword(text)}/>
 
         </View>
         <Button 
